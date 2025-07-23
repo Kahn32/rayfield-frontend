@@ -241,7 +241,7 @@ const EnergyPermitsProcessor = () => {
           </div>
           {/* Back Button */}
           <a
-            href="rayfieldleaseai.vercel.app" 
+            href="https://rayfieldleaseai.vercel.app" 
             className="mt-6 block text-center"
           >
             <Button className="bg-secondary text-secondary-foreground hover:bg-secondary/80">
